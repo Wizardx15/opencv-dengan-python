@@ -1,0 +1,4 @@
+*Step 1
+Buka komen (#) dengan cara ctrl+/ (jika di vsc)
+*Step 2
+run
