@@ -1,4 +1,10 @@
 *Step 1
-Buka komen (#) dengan cara ctrl+/ (jika di vsc)
+install open cv pada terminal denga mengetikan "pip install opencv-python"
 *Step 2
+install numpy pada terminal denga mengetikan "pip install numpy"
+*Step 3
+install numpy pada terminal matplotlib mengetikan "pip install matplotlib"
+*Step 4
+Buka komen (#) dengan cara ctrl+/ (jika di vsc)
+*Step 5
 run
